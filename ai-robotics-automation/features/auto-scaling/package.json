@@ -1,0 +1,15 @@
+{
+  "name": "@ai-robotics-automation/auto-scaling",
+  "version": "1.0.0",
+  "description": "Automatic Scaling",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-robotics-automation", "auto-scaling"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

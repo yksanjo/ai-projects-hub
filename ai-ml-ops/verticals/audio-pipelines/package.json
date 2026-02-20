@@ -1,0 +1,15 @@
+{
+  "name": "@ai-ml-ops/audio-pipelines",
+  "version": "1.0.0",
+  "description": "pipelines for Speech and Audio Processing",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-ml-ops", "audio-pipelines"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

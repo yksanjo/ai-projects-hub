@@ -1,0 +1,22 @@
+# api-gateway
+
+> API Gateway and Routing
+
+## Installation
+
+```bash
+npm install @ai-data-platform/api-gateway
+```
+
+## Usage
+
+```javascript
+import { ApiGateway } from '@ai-data-platform/api-gateway';
+
+const service = new ApiGateway();
+await service.init();
+```
+
+## License
+
+MIT

@@ -1,0 +1,14 @@
+{
+  "name": "ai-workflow-orchestration",
+  "version": "1.0.0",
+  "description": "AI Workflow and Pipeline Orchestration",
+  "private": true,
+  "workspaces": ["packages/*", "features/*", "verticals/*"],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["ai", "workflow,pipeline,automation,dag"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@ai-llm-platform/audio-connectors",
+  "version": "1.0.0",
+  "description": "connectors for Speech and Audio Processing",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-llm-platform", "audio-connectors"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

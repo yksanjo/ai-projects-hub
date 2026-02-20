@@ -1,0 +1,15 @@
+{
+  "name": "@ai-edge-compute/metrics-collection",
+  "version": "1.0.0",
+  "description": "Metrics Collection",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-edge-compute", "metrics-collection"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

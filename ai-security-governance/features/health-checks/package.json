@@ -1,0 +1,15 @@
+{
+  "name": "@ai-security-governance/health-checks",
+  "version": "1.0.0",
+  "description": "Health Checks",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-security-governance", "health-checks"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

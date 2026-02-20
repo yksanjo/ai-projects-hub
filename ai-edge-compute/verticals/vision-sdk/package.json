@@ -1,0 +1,15 @@
+{
+  "name": "@ai-edge-compute/vision-sdk",
+  "version": "1.0.0",
+  "description": "sdk for Computer Vision and Image Processing",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-edge-compute", "vision-sdk"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

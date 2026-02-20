@@ -1,0 +1,15 @@
+{
+  "name": "@ai-edge-compute/load-balancing",
+  "version": "1.0.0",
+  "description": "Load Balancing",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-edge-compute", "load-balancing"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

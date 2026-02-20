@@ -1,0 +1,15 @@
+{
+  "name": "@ai-cloud-native/reinforcement-api",
+  "version": "1.0.0",
+  "description": "api for Reinforcement Learning",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-cloud-native", "reinforcement-api"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

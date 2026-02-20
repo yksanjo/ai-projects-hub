@@ -1,0 +1,14 @@
+{
+  "name": "ai-llm-platform",
+  "version": "1.0.0",
+  "description": "LLM and Foundation Model Platform",
+  "private": true,
+  "workspaces": ["packages/*", "features/*", "verticals/*"],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["ai", "llm,foundation,prompt,fine-tuning"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

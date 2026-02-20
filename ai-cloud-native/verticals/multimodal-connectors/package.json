@@ -1,0 +1,15 @@
+{
+  "name": "@ai-cloud-native/multimodal-connectors",
+  "version": "1.0.0",
+  "description": "connectors for Multimodal AI",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-cloud-native", "multimodal-connectors"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

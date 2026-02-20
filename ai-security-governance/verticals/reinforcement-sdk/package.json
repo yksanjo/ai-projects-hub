@@ -1,0 +1,15 @@
+{
+  "name": "@ai-security-governance/reinforcement-sdk",
+  "version": "1.0.0",
+  "description": "sdk for Reinforcement Learning",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-security-governance", "reinforcement-sdk"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

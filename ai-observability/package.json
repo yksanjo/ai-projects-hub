@@ -1,0 +1,14 @@
+{
+  "name": "ai-observability",
+  "version": "1.0.0",
+  "description": "AI Observability and Monitoring",
+  "private": true,
+  "workspaces": ["packages/*", "features/*", "verticals/*"],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["ai", "observability,monitoring,logging,tracing"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

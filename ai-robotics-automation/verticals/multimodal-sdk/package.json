@@ -1,0 +1,15 @@
+{
+  "name": "@ai-robotics-automation/multimodal-sdk",
+  "version": "1.0.0",
+  "description": "sdk for Multimodal AI",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-robotics-automation", "multimodal-sdk"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

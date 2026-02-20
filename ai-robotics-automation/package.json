@@ -1,0 +1,14 @@
+{
+  "name": "ai-robotics-automation",
+  "version": "1.0.0",
+  "description": "AI Robotics and Process Automation",
+  "private": true,
+  "workspaces": ["packages/*", "features/*", "verticals/*"],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["ai", "robotics,rpa,automation,agents"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

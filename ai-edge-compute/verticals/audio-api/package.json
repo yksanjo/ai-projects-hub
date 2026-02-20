@@ -1,0 +1,15 @@
+{
+  "name": "@ai-edge-compute/audio-api",
+  "version": "1.0.0",
+  "description": "api for Speech and Audio Processing",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-edge-compute", "audio-api"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@ai-workflow-orchestration/scheduler-jobs",
+  "version": "1.0.0",
+  "description": "Scheduling and Jobs",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-workflow-orchestration", "scheduler-jobs"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

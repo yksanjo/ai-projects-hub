@@ -1,0 +1,14 @@
+{
+  "name": "ai-data-platform",
+  "version": "1.0.0",
+  "description": "AI Data Platform and Lakehouse",
+  "private": true,
+  "workspaces": ["packages/*", "features/*", "verticals/*"],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["ai", "data,lakehouse,etl,analytics"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

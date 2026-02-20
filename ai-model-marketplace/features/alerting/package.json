@@ -1,0 +1,15 @@
+{
+  "name": "@ai-model-marketplace/alerting",
+  "version": "1.0.0",
+  "description": "Alerting System",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-model-marketplace", "alerting"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

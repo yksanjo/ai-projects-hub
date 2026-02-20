@@ -1,0 +1,15 @@
+{
+  "name": "@ai-cloud-native/circuit-breaker",
+  "version": "1.0.0",
+  "description": "Circuit Breaker",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-cloud-native", "circuit-breaker"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

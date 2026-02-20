@@ -1,0 +1,15 @@
+{
+  "name": "@ai-security-governance/multimodal-api",
+  "version": "1.0.0",
+  "description": "api for Multimodal AI",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-security-governance", "multimodal-api"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

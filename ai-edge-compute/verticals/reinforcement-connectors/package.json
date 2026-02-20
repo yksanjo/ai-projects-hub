@@ -1,0 +1,15 @@
+{
+  "name": "@ai-edge-compute/reinforcement-connectors",
+  "version": "1.0.0",
+  "description": "connectors for Reinforcement Learning",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-edge-compute", "reinforcement-connectors"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

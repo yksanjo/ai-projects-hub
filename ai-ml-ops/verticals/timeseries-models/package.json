@@ -1,0 +1,15 @@
+{
+  "name": "@ai-ml-ops/timeseries-models",
+  "version": "1.0.0",
+  "description": "models for Time Series Analysis",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "ai-ml-ops", "timeseries-models"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

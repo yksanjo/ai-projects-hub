@@ -1,0 +1,14 @@
+{
+  "name": "ai-security-governance",
+  "version": "1.0.0",
+  "description": "AI Security and Governance",
+  "private": true,
+  "workspaces": ["packages/*", "features/*", "verticals/*"],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["ai", "security,governance,compliance,privacy"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}
