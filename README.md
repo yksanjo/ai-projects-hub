@@ -1,5 +1,12 @@
 # ai-projects-hub
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ai-projects-hub/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ai-projects-hub/actions)
+![License](https://img.shields.io/github/license/yksanjo/ai-projects-hub)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ai-projects-hub)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ai-projects-hub)
+
 ## Detailed Description
 
 ai-projects-hub is maintained as an industry-grade software project with production-ready engineering practices.  
